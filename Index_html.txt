@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagine</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        h1 {
+            font-size: 4rem;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <h1>Imagine</h1>
+</body>
+</html>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ryNMM5pMPr0?si=O23ZqFO_4dzvpVSm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
